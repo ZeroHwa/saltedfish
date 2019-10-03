@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorWords">#9400D3</color>
+    <color name="cut_off_rule_color">#D3D3D3</color>
+    <color name="gradual_change_line_start_color">#FFFF00</color>
+    <color name="gradual_change_line_center_color">#FFAEB9</color>
+    <color name="gradual_change_line_end_color">#FF0000</color>
+
+    <color name="transparent">#ffffff</color>
+    <!--透明-->
+</resources>

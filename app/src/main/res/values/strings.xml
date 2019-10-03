@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">咸鱼清洗ing</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Made By Zero_Hwa</string>
+    <string name="nav_header_subtitle">841042207@qq.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_sign_in">签到</string>
+    <string name="main_saying">今日名言：</string>
+    <string name="main_advantage">有用功</string>
+    <string name="main_disadvantage">无用功</string>
+    <string name="main_new_plan">新建任务</string>
+    <string name="main_today_plan">今日任务</string>
+    <string name="fragment_start">开始</string>
+    <string name="fragment_ending">结束</string>
+    <string name="fragment_time">时长</string>
+    <string name="fragment_remark">备注</string>
+    <string name="vs">VS</string>
+    <string name="start_count">开始计时</string>
+    <string name="cancel">取消</string>
+    <string name="save">保存</string>
+    <string name="add_task">添加代办内容</string>
+</resources>
